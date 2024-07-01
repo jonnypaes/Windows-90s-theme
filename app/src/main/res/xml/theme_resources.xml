@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Theme version="1">
+
+    <!-- FOR LG HOME -->
+
+    <Label value="Windows 90s" />
+    <Wallpaper image="wallpaper_default" />
+    <LockScreenWallpaper image="wallpaper_default" />
+    <ThemePreview image="lg_homescreen_preview" />
+    <ThemePreviewWork image="lg_homescreen_preview_work" />
+    <ThemePreviewMenu image="lg_homescreen_preview_menu" />
+    <DockMenuAppIcon selector="lg_dockmenu_all_apps_button_icon" />
+
+    <AppIcon name="com.jonnypaes.Windows90s/com.jonnypaes.Windows90s.activities.SplashActivity" image="windows_logo" />
+</Theme>

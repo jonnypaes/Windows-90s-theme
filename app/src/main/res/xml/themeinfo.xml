@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<themeInfo>
+
+    <!-- FOR ATOM LAUNCHER -->
+
+    <packageName>com.jonnypaes.Windows90s</packageName>
+    <versionName>0.1.0</versionName>
+    <versionCode>010</versionCode>
+    <themeName>Windows 90s</themeName>
+
+    <!-- Default Component Color -->
+    <themePointColor>#ffffff</themePointColor>
+    <themePreview img1="preview1" />
+    <preview img1="preview1" />
+
+</themeInfo>

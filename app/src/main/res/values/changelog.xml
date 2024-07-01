@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date">November 7, 2020</string>
+
+    <string-array name="changelog">
+        <item><![CDATA[<b>Hello World.</b>]]></item>
+		<item>Initial Release.</item>
+    </string-array>
+
+</resources>

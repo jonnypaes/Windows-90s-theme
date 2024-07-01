@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="Agenda | Book" />
+        <item drawable="agenda" />
+        <item drawable="agenda2" />
+        <item drawable="agenda3" />		
+        <item drawable="book" />
+        
+    <category title="Browser" />
+        <item drawable="browser" />
+
+    <category title="Calculator" />
+        <item drawable="calculator" />
+
+    <category title="Calendar" />
+        <item drawable="calendar_30" />
+        <item drawable="calendar" />
+
+    <category title="Camera" />
+        <item drawable="camera" />
+        <item drawable="camera_video" />
+        <item drawable="video_recorder" />
+        <item drawable="video_recorder2" />
+
+    <category title="Clock" />
+        <item drawable="clock" />
+        <item drawable="clock2" />
+
+    <category title="Contacts" />
+        <item drawable="contacts" />
+        <item drawable="contacts2" />
+        <item drawable="contacts3" />
+        <item drawable="contacts4" />
+        <item drawable="contacts5" />
+        <item drawable="contacts6" />
+
+    <category title="E-Mail | Messaging" />
+        <item drawable="mail" />
+        <item drawable="mail2" />
+        <item drawable="sms" />
+        <item drawable="email" />
+        <item drawable="email2" />
+
+    <category title="Files | Folders" />
+        <item drawable="file_explorer" />
+        <item drawable="file_search" />
+        <item drawable="folder" />                
+        <item drawable="file" />
+
+    <category title="Gallery" />
+        <item drawable="gallery" />
+        <item drawable="gallery2" />
+        <item drawable="gallery3" />
+
+    <category title="Installer" />
+        <item drawable="installer" />
+        <item drawable="installer2" />
+        <item drawable="installer3" />
+
+    <category title="Keyboard" />
+        <item drawable="keyboard" />
+
+    <category title="Launchers" />
+        <item drawable="explorer" />
+        <item drawable="explorer3" />
+
+    <category title="Localization" />
+        <item drawable="globe" />
+        <item drawable="globe2" />
+        <item drawable="streets" />
+        <item drawable="satellite" />
+
+    <category title="Money related" />
+        <item drawable="money" />
+        <item drawable="card" />   
+        <item drawable="card_logo_visa" />
+
+    <category title="Multimedia" />
+        <item drawable="media" />
+        <item drawable="movies" />        
+        <item drawable="music" />
+        <item drawable="music2" />
+
+    <category title="News" />
+        <item drawable="journal" />
+        <item drawable="journal2" />
+        <item drawable="journal3" />
+        <item drawable="journal4" />
+
+    <category title="Text | Docs | Notes" />
+        <item drawable="notepad" />
+        <item drawable="notepad2" />
+        <item drawable="file" />
+        <item drawable="template" />
+        <item drawable="note" />
+        <item drawable="notes" />
+        <item drawable="notes2" />
+        <item drawable="document" />
+
+    <category title="Office Tools" />
+
+    <category title="Online File Storage" />
+
+    <category title="Online Photo Storage" />
+
+    <category title="Online Shopping" />
+
+    <category title="Online Streaming" />
+        <item drawable="video_streaming" />
+        <item drawable="video_streaming2" />
+
+    <category title="Peripheral" />
+        <item drawable="harddrive" />
+        <item drawable="harddrive_network" />
+
+    <category title="Phone" />
+        <item drawable="phone" />
+        <item drawable="phone2" />
+        <item drawable="phone3" />
+
+    <category title="Security" />
+        <item drawable="keys" />
+        <item drawable="locker" />
+        <item drawable="safebox" />
+
+    <category title="Settings" />
+        <item drawable="gears" />
+        <item drawable="gears2" />
+        <item drawable="settings" />
+        <item drawable="settings2" />
+
+    <category title="Social Network" />
+
+    <category title="Screen | Sound Recorder" />
+        <item drawable="microphone" />
+        <item drawable="microphone2" />        
+
+    <category title="Theme Engine" />
+
+    <category title="Windows Structure" />
+        <item drawable="message_text" />
+        <item drawable="message_error" />
+        <item drawable="message_information" />
+        <item drawable="message_question" />
+        <item drawable="message_warning" />
+        <item drawable="shortcut" />
+
+    <category title="Brands" />
+		<item drawable="microsoft_internet_explorer" />
+        <item drawable="microsoft_msn" />
+		<item drawable="microsoft_windows_media_player" />
+        <item drawable="microsoft_windows_media_player_classic" />
+		<item drawable="mozilla_firefox" />
+		
+    <category title="Others" />
+
+    <category title="+ Misc" />
+        <item drawable="agent" />
+        <item drawable="chart_pie" />
+        <item drawable="charts" />
+        <item drawable="cleaner" />
+        <item drawable="console" />
+		<item drawable="computer" />
+        <item drawable="computer2" />
+        <item drawable="empty" />
+        <item drawable="exe" />
+        <item drawable="file_search" />
+        <item drawable="font" />
+        <item drawable="games" />
+        <item drawable="help" />
+        <item drawable="home" />
+        <item drawable="ic_allapps" />
+        <item drawable="internet" />
+        <item drawable="message" />
+        <item drawable="network_drive" />
+        <item drawable="television_network" />
+        <item drawable="online_messenger_b1" />
+        <item drawable="printer" />
+        <item drawable="saved" />
+		<item drawable="scanner" />
+        <item drawable="security" />
+        <item drawable="shortcut" />
+        <item drawable="sound" />
+        <item drawable="template" />
+        <item drawable="text" />
+        <item drawable="theme_icon" />
+        <item drawable="themes" />
+        <item drawable="video" />
+        <item drawable="wallpaper" />
+        <item drawable="windows_file" />
+        <item drawable="zip_folder" />
+
+    <category title="Vaporwave" />
+        <item drawable="calendar_vw" />
+        <item drawable="camera_vw" />
+        <item drawable="contacts_vw" />
+        <item drawable="explorer_vw" />
+        <item drawable="file_explorer_vw" />
+        <item drawable="file_search_vw" />
+        <item drawable="folder_vw" />
+        <item drawable="globe2_vw" />
+        <item drawable="internet_vw" />
+        <item drawable="microsoft_internet_explorer_vw" />
+        <item drawable="music_vw" />
+        <item drawable="notepad_vw" />
+        <item drawable="phone2_vw" />
+        <item drawable="phone_vw" />
+        <item drawable="settings_vw" />
+        <item drawable="web_search_vw" />
+        <item drawable="world2_vw" />
+        <item drawable="world_vw" />
+        <item drawable="zip_folder_vw" />
+
+    <category title="Windows Modified" />
+        <item drawable="card_orange_new" />
+        <item drawable="card_purple_new" />
+        <item drawable="card_red_new" />
+		<item drawable="book_new" />		
+		
+    <category title="Custom | Originals" />
+        <item drawable="sim_cus" />	
+		
+	
+	
+    <category title="All" />
+    <item drawable="agenda" />
+    <item drawable="agenda2" />
+    <item drawable="agenda3" />
+    <item drawable="book" />
+
+    <item drawable="browser" />
+
+    <item drawable="calculator" />
+
+    <item drawable="calendar_30" />
+    <item drawable="calendar" />
+
+    <item drawable="camera" />
+    <item drawable="camera_video" />
+    <item drawable="video_recorder" />
+    <item drawable="video_recorder2" />
+
+    <item drawable="clock" />
+    <item drawable="clock2" />
+
+    <item drawable="contacts" />
+    <item drawable="contacts2" />
+    <item drawable="contacts3" />
+    <item drawable="contacts4" />
+    <item drawable="contacts5" />
+    <item drawable="contacts6" />
+
+    <item drawable="mail" />
+    <item drawable="mail2" />
+    <item drawable="sms" />
+    <item drawable="email" />
+    <item drawable="email2" />
+
+    <item drawable="file_explorer" />
+    <item drawable="file_search" />
+    <item drawable="folder" />
+    <item drawable="file" />
+
+    <item drawable="gallery" />
+    <item drawable="gallery2" />
+    <item drawable="gallery3" />
+
+    <item drawable="installer" />
+    <item drawable="installer2" />
+    <item drawable="installer3" />
+
+    <item drawable="keyboard" />
+
+    <item drawable="explorer" />
+    <item drawable="explorer3" />
+
+    <item drawable="globe" />
+    <item drawable="globe2" />
+    <item drawable="streets" />
+    <item drawable="satellite" />
+
+    <item drawable="money" />
+    <item drawable="card" />
+    <item drawable="card_logo_visa" />
+
+    <item drawable="media" />
+    <item drawable="movies" />
+    <item drawable="music" />
+    <item drawable="music2" />
+
+    <item drawable="journal" />
+    <item drawable="journal2" />
+    <item drawable="journal3" />
+    <item drawable="journal4" />
+
+    <item drawable="notepad" />
+    <item drawable="notepad2" />
+    <item drawable="file" />
+    <item drawable="template" />
+    <item drawable="note" />
+    <item drawable="notes" />
+    <item drawable="notes2" />
+    <item drawable="document" />
+
+    <item drawable="video_streaming" />
+    <item drawable="video_streaming2" />
+
+    <item drawable="harddrive" />
+    <item drawable="harddrive_network" />
+
+    <item drawable="phone" />
+    <item drawable="phone2" />
+    <item drawable="phone3" />
+
+    <item drawable="keys" />
+    <item drawable="locker" />
+    <item drawable="safebox" />
+
+    <item drawable="gears" />
+    <item drawable="gears2" />
+    <item drawable="settings" />
+    <item drawable="settings2" />
+
+    <item drawable="microphone" />
+    <item drawable="microphone2" />
+
+    <item drawable="message_text" />
+    <item drawable="message_error" />
+    <item drawable="message_information" />
+    <item drawable="message_question" />
+    <item drawable="message_warning" />
+    <item drawable="shortcut" />
+
+    <item drawable="microsoft_internet_explorer" />
+    <item drawable="microsoft_msn" />
+    <item drawable="microsoft_windows_media_player" />
+    <item drawable="microsoft_windows_media_player_classic" />
+    <item drawable="mozilla_firefox" />
+
+    <item drawable="agent" />
+    <item drawable="chart_pie" />
+    <item drawable="charts" />
+    <item drawable="cleaner" />
+    <item drawable="console" />
+    <item drawable="computer" />
+    <item drawable="computer2" />
+    <item drawable="empty" />
+    <item drawable="exe" />
+    <item drawable="file_search" />
+    <item drawable="font" />
+    <item drawable="games" />
+    <item drawable="help" />
+    <item drawable="home" />
+    <item drawable="ic_allapps" />
+    <item drawable="internet" />
+    <item drawable="message" />
+    <item drawable="network_drive" />
+    <item drawable="television_network" />
+    <item drawable="online_messenger_b1" />
+    <item drawable="printer" />
+    <item drawable="saved" />
+    <item drawable="scanner" />
+    <item drawable="security" />
+    <item drawable="shortcut" />
+    <item drawable="sound" />
+    <item drawable="template" />
+    <item drawable="text" />
+    <item drawable="theme_icon" />
+    <item drawable="themes" />
+    <item drawable="video" />
+    <item drawable="wallpaper" />
+    <item drawable="windows_file" />
+    <item drawable="zip_folder" />
+
+    <item drawable="calendar_vw" />
+    <item drawable="camera_vw" />
+    <item drawable="contacts_vw" />
+    <item drawable="explorer_vw" />
+    <item drawable="file_explorer_vw" />
+    <item drawable="file_search_vw" />
+    <item drawable="folder_vw" />
+    <item drawable="globe2_vw" />
+    <item drawable="internet_vw" />
+    <item drawable="microsoft_internet_explorer_vw" />
+    <item drawable="music_vw" />
+    <item drawable="notepad_vw" />
+    <item drawable="phone2_vw" />
+    <item drawable="phone_vw" />
+    <item drawable="settings_vw" />
+    <item drawable="web_search_vw" />
+    <item drawable="world2_vw" />
+    <item drawable="world_vw" />
+    <item drawable="zip_folder_vw" />
+
+    <item drawable="card_orange_new" />
+    <item drawable="card_purple_new" />
+    <item drawable="card_red_new" />
+    <item drawable="book_new" />
+
+    <item drawable="sim_cus" />
+	
+</resources>

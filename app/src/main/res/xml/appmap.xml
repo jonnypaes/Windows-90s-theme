@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appmap>
+
+    <!-- FOR ATOM LAUNCHER -->
+
+    <item class="com.jonnypaes.Windows90s.activities.SplashActivity" name="windows_logo" />
+    
+</appmap>

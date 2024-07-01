@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- YOUR ICON PACK NAME -->
+    <string name="app_name">Windows 90s</string>
+
+    <string name="theme_title">Windows 90s</string>
+    <string name="theme_name">Windows 90s</string>
+
+    <string name="theme_author">Jonny Paes</string>
+    <string name="developer_name">Jonny Paes</string>
+    <string name="developerName">Jonny Paes</string>
+    <string name="authorName">Jonny Paes</string>
+
+    <string name="authorLink">https://www.androidsuperuser.com.br/p/windows-90s.html</string>
+    <string name="developer_link">https://www.androidsuperuser.com.br/p/windows-90s.html</string>
+
+    <string name="theme_description">Just nostagia in a pack</string>
+    <string name="theme_info">Just nostagia in a pack</string>
+    <string name="theme_ad_msg">Just nostagia in a pack</string>
+
+    <string name="theme_feature">feature</string>
+
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>
+
+    <string name="iconpack">com.jonnypaes.Windows90s</string>
+
+</resources>
